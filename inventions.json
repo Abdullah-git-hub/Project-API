@@ -1,0 +1,52 @@
+[
+    {
+      "name": "Refrigerator",
+      "inventor": "Carl von Linde",
+      "year": 1876
+    },
+    {
+      "name": "Steam Engine",
+      "inventor": "James Watt",
+      "year": 1775
+    },
+    {
+      "name": "Lightning Rod",
+      "inventor": "Benjamin Franklin",
+      "year": 1749
+    },
+    {
+      "name": "Photography",
+      "inventor": "Louis Daguerre",
+      "year": 1839
+    },
+    {
+      "name": "X-ray",
+      "inventor": "Wilhelm Roentgen",
+      "year": 1895
+    },
+    {
+      "name": "Laser",
+      "inventors": ["Arthur Schawlow", "Theodore Maiman"],
+      "year": 1958
+    },
+    {
+      "name": "DNA Double Helix",
+      "inventors": ["James Watson", "Francis Crick"],
+      "year": 1953
+    },
+    {
+      "name": "Pacemaker",
+      "inventors": ["John Hopps", "Wilfred Bigelow"],
+      "year": 1950
+    },
+    {
+      "name": "GPS",
+      "inventors": ["Ivan Getting", "Bradford Parkinson"],
+      "year": 1978
+    },
+    {
+      "name": "MRI",
+      "inventors": ["Paul Lauterbur", "Sir Peter Mansfield"],
+      "year": 1977
+    }
+  ]
